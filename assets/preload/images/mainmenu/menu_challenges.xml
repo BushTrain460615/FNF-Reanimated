@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_challenges.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="challenges black0000" x="0" y="0" width="554" height="132"/>
+	<SubTexture name="challenges black0001" x="0" y="132" width="554" height="132"/>
+	<SubTexture name="challenges black0002" x="0" y="264" width="554" height="132"/>
+	<SubTexture name="challenges white0000" x="0" y="396" width="631" height="162"/>
+	<SubTexture name="challenges white0001" x="0" y="558" width="631" height="162"/>
+	<SubTexture name="challenges white0002" x="0" y="720" width="631" height="162"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_kikstarter.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kikstarter basic0000" x="0" y="0" width="558" height="133"/>
+	<SubTexture name="kikstarter basic0001" x="0" y="0" width="558" height="133"/>
+	<SubTexture name="kikstarter basic0002" x="0" y="0" width="558" height="133"/>
+	<SubTexture name="kikstarter basic0003" x="0" y="133" width="558" height="133"/>
+	<SubTexture name="kikstarter basic0004" x="0" y="133" width="558" height="133"/>
+	<SubTexture name="kikstarter basic0005" x="0" y="133" width="558" height="133"/>
+	<SubTexture name="kikstarter basic0006" x="0" y="266" width="558" height="133"/>
+	<SubTexture name="kikstarter basic0007" x="0" y="266" width="558" height="133"/>
+	<SubTexture name="kikstarter basic0008" x="0" y="266" width="558" height="133"/>
+	<SubTexture name="kikstarter white0000" x="0" y="399" width="691" height="164"/>
+	<SubTexture name="kikstarter white0001" x="0" y="563" width="691" height="164"/>
+	<SubTexture name="kikstarter white0002" x="0" y="727" width="691" height="164"/>
+</TextureAtlas>
