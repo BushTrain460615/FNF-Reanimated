@@ -44,5 +44,6 @@ class MenuItem extends FlxSprite
 			color = 0xFF33ffff;
 		else
 			color = FlxColor.WHITE;
+		//if you see this you are cool
 	}
 }
