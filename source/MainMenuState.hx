@@ -92,7 +92,7 @@ class MainMenuState extends MusicBeatState
 
 		var blackbar:FlxSprite = new FlxSprite(60).loadGraphic(Paths.image('blackbar'));
 		blackbar.scrollFactor.set(0, yScroll);
-		blackbar.x = -200;
+		blackbar.x = -230;
 		blackbar.setGraphicSize(Std.int(blackbar.width * 1.3));
 		blackbar.antialiasing = ClientPrefs.globalAntialiasing;
 		add(blackbar);
@@ -230,12 +230,6 @@ class MainMenuState extends MusicBeatState
 										MusicBeatState.switchState(new StoryMenuState());
 									case 'freeplay':
 										MusicBeatState.switchState(new FreeplayState());
-									#if MODS_ALLOWED
-									case 'mods':
-										MusicBeatState.switchState(new ModsMenuState());
-									#end
-									case 'awards':
-										MusicBeatState.switchState(new AchievementsMenuState());
 									case 'credits':
 										MusicBeatState.switchState(new CreditsState());
 									case 'options':
