@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
-	<app title="Friday Night Funkin' Reanimated" file="Reanimated" packageName="com.bushtrain.Reanimated" package="com.bushtrain.Reanimated" main="Main" version="0.2.8" company="bushtrain" />
+	<app title="Friday Night Funkin' Reanimated DEMO" file="Reanimated DEMO" packageName="com.bushtrain.Reanimated" package="com.bushtrain.Reanimated" main="Main" version="0.2.8" company="bushtrain" />
 	<haxedef name="LINC_LUA_RELATIVE_DYNAMIC_LIB"/> <!-- stable luas PUT AFTER FIRST LINE WITH APP NAME AND ETC -->
 	<!-- <app preloader="Preloader" resizable="true" /> -->
 	<app preloader="flixel.system.FlxPreloader" />
