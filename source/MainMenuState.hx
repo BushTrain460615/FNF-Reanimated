@@ -91,7 +91,7 @@ class MainMenuState extends MusicBeatState
 
 		var blackbar:FlxSprite = new FlxSprite(60).loadGraphic(Paths.image('blackbar'));
 		blackbar.scrollFactor.set(0, yScroll);
-		blackbar.x = -150;
+		blackbar.x = -200;
 		blackbar.setGraphicSize(Std.int(blackbar.width * 1.3));
 		blackbar.antialiasing = ClientPrefs.globalAntialiasing;
 		add(blackbar);
