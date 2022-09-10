@@ -72,7 +72,6 @@ class MainMenuState extends MusicBeatState
 		var bg:FlxSprite = new FlxSprite(-80).loadGraphic(Paths.image('menuDesat'));
 		bg.scrollFactor.set(0, yScroll);
 		bg.setGraphicSize(Std.int(bg.width * 1.175));
-		bg.color = 0xFFfd719b;
 		bg.updateHitbox();
 		bg.screenCenter();
 		bg.antialiasing = ClientPrefs.globalAntialiasing;
@@ -92,7 +91,7 @@ class MainMenuState extends MusicBeatState
 
 		var blackbar:FlxSprite = new FlxSprite(60).loadGraphic(Paths.image('blackbar'));
 		blackbar.scrollFactor.set(0, yScroll);
-		blackbar.x = -230;
+		blackbar.x = -150;
 		blackbar.setGraphicSize(Std.int(blackbar.width * 1.3));
 		blackbar.antialiasing = ClientPrefs.globalAntialiasing;
 		add(blackbar);
@@ -113,7 +112,7 @@ class MainMenuState extends MusicBeatState
 			menuItem.animation.addByPrefix('selected', optionShit[i] + " white", 24);
 			menuItem.animation.play('idle');
 			menuItem.ID = i;
-			menuItem.x += 40;
+			menuItem.x += 95;
 			//menuItem.screenCenter(X);
 			menuItems.add(menuItem);
 			var scr:Float = 0.175;
