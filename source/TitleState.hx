@@ -292,6 +292,12 @@ class TitleState extends MusicBeatState
 		//logoBl.screenCenter();
 		// logoBl.color = FlxColor.BLACK;
 
+		var BG:FlxSprite = new FlxSprite(60).loadGraphic(Paths.image('TitleBG'));
+		BG.setGraphicSize(Std.int(BG.width * 1.3));
+		BG.screenCenter();
+		BG.antialiasing = ClientPrefs.globalAntialiasing;
+		add(BG);
+
 		swagShader = new ColorSwap();
 		gfDance = new FlxSprite(titleJSON.gfx, titleJSON.gfy);
 
