@@ -1,0 +1,44 @@
+{
+	"storyName": "PICO",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Pico-Erect",
+			"pico-reanimated",
+			[
+				20,
+				215,
+				0
+			]
+		],
+		[
+			"Philly Nice-Erect",
+			"pico-reanimated",
+			[
+				20,
+				215,
+				0
+			]
+		],
+		[
+			"Blammed-Erect",
+			"pico-reanimated",
+			[
+				20,
+				215,
+				0
+			]
+		]
+	],
+	"weekName": "Week 3"
+}

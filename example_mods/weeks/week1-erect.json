@@ -1,0 +1,50 @@
+{
+	"storyName": "Vs Dad",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Bopeebo-Erect",
+			"dad-reanimated",
+			[
+				226,
+				113,
+				253
+			]
+		],
+		[
+			"Fresh-Erect",
+			"dad-reanimated",
+			[
+				226,
+				113,
+				253
+			]
+		],
+		[
+			"DadBattle-Erect",
+			"dad-reanimated",
+			[
+				226,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 1"
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				29
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dad sing note right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-13
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-13,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing note UP"
+		},
+		{
+			"offsets": [
+				-6,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-9,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "dad Fresh Right"
+		},
+		{
+			"offsets": [
+				2,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Dad Fresh DOWN"
+		},
+		{
+			"offsets": [
+				-6,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Dad Fresh LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				31
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Dad Fresh UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": true,
+			"name": "Dad Hey!!"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DaddyD_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad-reanimated",
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		150,
+		252
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

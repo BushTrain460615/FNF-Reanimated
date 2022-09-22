@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Warning.png">
+<SubTexture name="beep0000" x="0" y="0" width="498" height="260" frameX="0" frameY="0" frameWidth="498" frameHeight="260" />
+<SubTexture name="beep0001" x="498" y="0" width="498" height="260" frameX="0" frameY="0" frameWidth="498" frameHeight="260" />
+<SubTexture name="beep0002" x="0" y="260" width="498" height="260" frameX="0" frameY="0" frameWidth="498" frameHeight="260" />
+<SubTexture name="beep0003" x="498" y="260" width="498" height="260" frameX="0" frameY="0" frameWidth="498" frameHeight="260" />
+</TextureAtlas>

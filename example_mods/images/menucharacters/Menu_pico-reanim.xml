@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_pico-reanim.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico Hey Menu0000" x="0" y="0" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0001" x="0" y="0" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0002" x="398" y="0" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0003" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0004" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0005" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0006" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0007" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0008" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0009" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0010" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0011" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0012" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0013" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0014" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0015" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0016" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0017" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0018" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0019" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0020" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0021" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0022" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0023" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Hey Menu0024" x="0" y="359" width="398" height="359"/>
+	<SubTexture name="Pico Idle Menu0000" x="398" y="359" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0001" x="398" y="359" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0002" x="621" y="359" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0003" x="0" y="718" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0004" x="223" y="718" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0005" x="446" y="718" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0006" x="669" y="718" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0007" x="0" y="964" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0008" x="223" y="964" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0009" x="223" y="964" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0010" x="223" y="964" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0011" x="223" y="964" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0012" x="223" y="964" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0013" x="223" y="964" width="223" height="246"/>
+	<SubTexture name="Pico Idle Menu0014" x="223" y="964" width="223" height="246"/>
+</TextureAtlas>

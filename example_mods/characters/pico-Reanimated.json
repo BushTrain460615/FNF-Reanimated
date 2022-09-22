@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico Sing Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico Sing Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Pico Left Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				53
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Pico Right Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pico Sing Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				67
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Pico Up Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Sing Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-91
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Pico Down Miss0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Pico Attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pico_Assets",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "pico-reanimated",
+	"flip_x": true,
+	"healthbar_colors": [
+		23,
+		255,
+		0
+	],
+	"camera_position": [
+		-40,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

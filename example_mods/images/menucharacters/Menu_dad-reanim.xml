@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_dad-reanim.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Idle Menu0000" x="0" y="0" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0001" x="0" y="0" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0002" x="406" y="0" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0003" x="406" y="0" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0004" x="812" y="0" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0005" x="812" y="0" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0006" x="1218" y="0" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0007" x="1218" y="0" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0008" x="1624" y="0" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0009" x="1624" y="0" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0010" x="0" y="780" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0011" x="0" y="780" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0012" x="1624" y="0" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0013" x="1624" y="0" width="406" height="780"/>
+	<SubTexture name="Dad Idle Menu0014" x="0" y="780" width="406" height="780"/>
+</TextureAtlas>

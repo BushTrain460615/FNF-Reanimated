@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_bf-reanim.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Hey Menu0000" x="0" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0001" x="0" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0002" x="396" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0003" x="792" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0004" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0005" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0006" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0007" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0008" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0009" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0010" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0011" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0012" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0013" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0014" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0015" x="0" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0016" x="0" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0017" x="396" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0018" x="792" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0019" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0020" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0021" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0022" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0023" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0024" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Hey Menu0025" x="1188" y="0" width="396" height="432"/>
+	<SubTexture name="BF Idle Menu0000" x="1584" y="0" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0001" x="1584" y="0" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0002" x="0" y="432" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0003" x="411" y="432" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0004" x="822" y="432" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0005" x="1233" y="432" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0006" x="0" y="852" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0007" x="411" y="852" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0008" x="822" y="852" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0009" x="1233" y="852" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0010" x="0" y="1272" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0011" x="0" y="1272" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0012" x="0" y="1272" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0013" x="0" y="1272" width="411" height="420"/>
+	<SubTexture name="BF Idle Menu0014" x="0" y="1272" width="411" height="420"/>
+</TextureAtlas>
